@@ -3,6 +3,7 @@
 # 1º Atividade; 
 # Canva
 Apresentação dinamica usandos os personagens ou coisas que a gente se identificava Power Point
+https://www.canva.com/design/DAGNZ7auvDo/QPIBhmIwGYmPx-ZTJgbofg/edit?utm_content=DAGNZ7auvDo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ![CANVA1](https://github.com/user-attachments/assets/164f68df-7641-4c87-aa98-df2dfac91ae7)
 ![CANVA2](https://github.com/user-attachments/assets/981994b9-af94-462d-96a1-5fe8fbe32507)
