@@ -1,12 +1,14 @@
 # Informatica
 
 # 1º Atividade; 
+# Canva
 Apresentação dinamica usandos os personagens ou coisas que a gente se identificava Power Point
 
 ![CANVA1](https://github.com/user-attachments/assets/164f68df-7641-4c87-aa98-df2dfac91ae7)
 ![CANVA2](https://github.com/user-attachments/assets/981994b9-af94-462d-96a1-5fe8fbe32507)
 
 # 2º Atividade
+# Excel
 Apresentação de formulas excel conte.se soma.se e graficos 
 ![1](https://github.com/user-attachments/assets/e9d1b7b1-d7db-4aa1-af24-7dca727674a5)
 
@@ -21,12 +23,14 @@ Apresentação de formulas excel conte.se soma.se e graficos
 ![6](https://github.com/user-attachments/assets/bee1644d-714b-4991-b7a0-2e3226142f89)
 
 # Atividade 3º 
+# Excel
 Uso de dados abertos de nossa escolha para montar uma panilha no exel.
 Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corresp.
 
 
 # Atividade 4º
-uso dos dados abertos para montar um dashboard no power BI.
+# Power BI
+Uso dos dados abertos para montar um dashboard no power BI.
 
 Power BI: https://fatecspgov.sharepoint.com/:u:/r/sites/Section_INF047.A994.N.074.146.20242/Shared%20Documents/General/Power%20Bi%20Cursos%20T%C3%A9cnicos.pbix?csf=1&web=1&e=jlgcqe
 
