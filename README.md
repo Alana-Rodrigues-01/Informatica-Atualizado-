@@ -34,6 +34,7 @@ Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, co
 # Power BI
 Uso dos dados abertos para montar um dashboard no power BI.
 
-Power BI: https://fatecspgov.sharepoint.com/:u:/r/sites/Section_INF047.A994.N.074.146.20242/Shared%20Documents/General/Power%20Bi%20Cursos%20T%C3%A9cnicos.pbix?csf=1&web=1&e=jlgcqe
+Power BI: https://fatecspgov.sharepoint.com/:u:/r/sites/Section_INF047.A994.N.074.146.20242/Shared%20Documents/General/Power%20Bi%20Cursos%20T%C3%A9cnicos.pbix?csf=1&web=1&e=2G5mTQ
 
-![Capturar](https://github.com/user-attachments/assets/3f0b85df-858d-4d8e-ae59-6ca4817bc5a4)
+![Capturar](https://github.com/user-attachments/assets/a4b7860c-48ac-49cf-b690-60eedd45f6f3)
+
