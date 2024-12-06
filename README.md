@@ -43,6 +43,7 @@ Power BI: https://fatecspgov.sharepoint.com/:u:/r/sites/Section_INF047.A994.N.07
 # Atividade 5°
 O desafio da terceira atividade de Power BI foi desenvolver um dashboard utilizando um arquivo de dados de vendas para monitorar o KPI de total de itens vendidos.
 ![image](https://github.com/user-attachments/assets/00c479a1-f750-47ad-89fe-6522cd421a82)
+https://make.powerapps.com/e/d9254f70-6235-e110-8385-225b3b1342e3/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Ff34e13d7-35c6-477a-a0e4-ff6b2b872b46&utm_source=PAMarketing&utm_medium=header&utm_campaign=signin&culture=pt-br&country=br
 
 # Atividade 6°
 O desafio da quarta atividade de Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com KPI
