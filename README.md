@@ -24,10 +24,12 @@ Apresentação de formulas excel conte.se soma.se e graficos
 
 ![6](https://github.com/user-attachments/assets/bee1644d-714b-4991-b7a0-2e3226142f89)
 
-# Atividade 3º 
-# Excel
-Uso de dados abertos de nossa escolha para montar uma panilha no exel.
-Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corresp.
+
+# Atividade 3º PowerBI
+Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards no Power BI. A proposta foi criar um dashboard com, no mínimo, duas visualizações, utilizei mapa, cartão e segmentação de dados.
+
+![Imagem do WhatsApp de 2024-12-06 à(s) 16 27 31_1316a388](https://github.com/user-attachments/assets/ab3811f7-c7a7-473f-8d99-870d06e99ce5)
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/alana_oliveira01_fatec_sp_gov_br/Documents/Mapa.pbix?csf=1&web=1&e=0Mhs2h
 
 
 # Atividade 4º
